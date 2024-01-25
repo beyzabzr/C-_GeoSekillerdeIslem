@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\bin\Debug\net8.0\GeometrikSekiller.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\bin\Debug\net8.0\GeometrikSekiller.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\bin\Debug\net8.0\GeometrikSekiller.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\bin\Debug\net8.0\GeometrikSekiller.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\bin\Debug\net8.0\GeometrikSekiller.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\refint\GeometrikSekiller.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\GeometrikSekiller.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\GeometrikSekiller\obj\Debug\net8.0\ref\GeometrikSekiller.dll
